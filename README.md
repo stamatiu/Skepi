@@ -1,7 +1,7 @@
 # Skepi
 Skepi - Robotics competition submission - Gymnasio Antirriou
 
-Still not completed - the uploaded code is operating but specific funtionalities are, still, being workded on.
+Still not completed - the uploaded code is operating but specific funtionalities are, still, being workded on. We used several libraries and available modules, suitably modified for our goals (with appropriate acknowledgments).
 
 The wiring.odp file shows the wiring of the project's devices.
 
