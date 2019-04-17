@@ -4,4 +4,4 @@ Almost completed - the uploaded code (in the src directory) is fully operational
 
 Below we see a figure of the hardware set-up:
 
-![image2](https://user-images.githubusercontent.com/5516900/28625071-70c1dbee-721b-11e7-8154-0dab00e37583.png
+https://github.com/stamatiu/Skepi/issues/1#issue-430850062
