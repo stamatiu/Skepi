@@ -5,4 +5,4 @@ Almost completed - the uploaded code (in the src directory) is fully operational
 
 Below we see a figure of the hardware set-up:
 
-https://user-images.githubusercontent.com/11610077/55787580-42f33800-5abf-11e9-93e8-b23aee2dfb90.JPG
+![IMAGE1](https://user-images.githubusercontent.com/11610077/55787580-42f33800-5abf-11e9-93e8-b23aee2dfb90.JPG)
