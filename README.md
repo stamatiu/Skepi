@@ -30,6 +30,8 @@ Skepi - Γυμνάσιο Αντιρρίου
 
 ![IMAGE1](https://user-images.githubusercontent.com/11610077/55787580-42f33800-5abf-11e9-93e8-b23aee2dfb90.JPG)
 
+![IMG_2571](https://user-images.githubusercontent.com/11610077/57634941-e946c780-75ae-11e9-826d-7cfb526fe136.JPG)
+
 Και οι μαθητές μας!
 
 ![IMAGE2](https://user-images.githubusercontent.com/11610077/57136920-f09ff100-6db6-11e9-9f50-42cd82a6ea16.jpg)
